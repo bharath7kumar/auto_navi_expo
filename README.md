@@ -2,6 +2,8 @@
                                                                                                               
 A differential drive robot that maps an indoor area and plans paths for efficient navigation in indoor agricultural fields.
 
+![alt_text](team.jpg "image_tooltip")
+
 ## Video Link :
 https://www.youtube.com/watch?v=_kQo_sd1_AM
 
